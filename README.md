@@ -83,4 +83,4 @@ Puedes:
 ## 📜 Licencia
 Este proyecto está licenciado bajo la MIT License.
 Puedes usar, modificar, distribuir e incluso vender versiones derivadas, siempre que mantengas el crédito al autor original.
-[→ Ver LICENCIA completa]
+[→ Ver LICENCIA completa](https://github.com/zenthor-dev/Draconix/blob/main/LICENSE)
