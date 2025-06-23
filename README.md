@@ -50,3 +50,11 @@
   - Mensajes (lang.yml)
   - Config general (config.yml)
   - Clases, timers, cooldowns, etc.
+
+## 🧠 ¿Para qué fue lanzado?
+
+Este proyecto fue creado con 3 objetivos:
+
+1. **Ofrecer una alternativa gratuita y de calidad** a los plugins HCF comerciales.
+2. **Facilitar el aprendizaje** a desarrolladores nuevos de Minecraft.
+3. **Crear una base sólida y modular** para futuros plugins PvP avanzados.
