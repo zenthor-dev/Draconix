@@ -70,3 +70,17 @@ Este proyecto fue creado con 3 objetivos:
 2. Coloca el archivo en la carpeta `/plugins/` de tu servidor
 3. Inicia el servidor
 4. Configura los archivos en `/plugins/Draconix/` a tu gusto
+
+## 🤝 ¿Cómo contribuir?
+Todos son bienvenidos a contribuir con Draconix.
+
+Puedes:
+
+- Abrir un issue con sugerencias o errores
+- Crear un PR (Pull Request) con nuevas funciones o fixes (sigue el estilo modular del proyecto.)
+- Compartir el proyecto para que crezca la comunidad
+
+## 📜 Licencia
+Este proyecto está licenciado bajo la MIT License.
+Puedes usar, modificar, distribuir e incluso vender versiones derivadas, siempre que mantengas el crédito al autor original.
+[→ Ver LICENCIA completa]
