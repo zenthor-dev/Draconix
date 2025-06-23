@@ -64,3 +64,9 @@ Este proyecto fue creado con 3 objetivos:
 ### 1. Requisitos
 - Java 8+
 - Spigot / Paper 1.8.8
+
+### 2. Guía rápida
+1. Descarga el `.jar` desde la pestaña [Releases](https://github.com/zenthor-dev/Draconix/releases)
+2. Coloca el archivo en la carpeta `/plugins/` de tu servidor
+3. Inicia el servidor
+4. Configura los archivos en `/plugins/Draconix/` a tu gusto
