@@ -70,3 +70,10 @@ Este proyecto fue creado con 3 objetivos:
 2. Coloca el archivo en la carpeta `/plugins/` de tu servidor
 3. Inicia el servidor
 4. Configura los archivos en `/plugins/Draconix/` a tu gusto
+
+## 🧪 Compilar desde el código
+
+```bash
+git clone https://github.com/zenthor/Draconix.git
+cd Draconix
+mvn clean install
