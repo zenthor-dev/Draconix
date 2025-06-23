@@ -2,4 +2,4 @@
 
 
 # 🐉 Draconix HCF Core
-HCF Core plugin for Minecraft 1.8.8 — Open Source, modular and complete
+Un plugin **Hardcore Factions (HCF)** moderno, modular y de código abierto, desarrollado completamente desde cero para ofrecer alto rendimiento, personalización total y una estructura limpia para desarrolladores.
