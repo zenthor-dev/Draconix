@@ -29,10 +29,10 @@
 
 ### 📊 Scoreboard
 - Visualización en vivo de:
-  - PvPTimer
-  - DTR de facción
-  - Coordenadas
-  - Estado de combate
+- PvPTimer
+- DTR de facción
+- Coordenadas
+- Estado de combate
 
 ### 💎 PvP Classes
 - Bard, Archer, Rogue, Diamond
@@ -47,9 +47,9 @@
 
 ### ⚙️ Configuración avanzada
 - Archivos `.yml` para modificar:
-  - Mensajes (lang.yml)
-  - Config general (config.yml)
-  - Clases, timers, cooldowns, etc.
+- Mensajes (lang.yml)
+- Config general (config.yml)
+- Clases, timers, cooldowns, etc.
 
 ## 🧠 ¿Para qué fue lanzado?
 
