@@ -90,3 +90,12 @@ Cesar Montiel (Zenthor)
 🛠️ Desarrollador de Nicaragua | 16 años
 🎮 Apasionado por Minecraft, el código y la comunidad
 📍 Discord: zenthor.dev
+
+## ⭐ ¿Te gusta el proyecto?
+Déjale una ⭐ estrella al repositorio
+
+Sígueme para más proyectos futuros
+
+Comparte Draconix con la comunidad
+
+> Draconix es solo el comienzo. Construyamos juntos el mejor core HCF open source.
