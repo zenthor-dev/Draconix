@@ -74,6 +74,6 @@ Este proyecto fue creado con 3 objetivos:
 ## 🧪 Compilar desde el código
 
 ```bash
-git clone https://github.com/zenthor/Draconix.git
+git clone https://github.com/zenthor-dev/Draconix.git
 cd Draconix
 mvn clean install
